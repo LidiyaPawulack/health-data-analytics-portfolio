@@ -21,4 +21,19 @@ Findings highlight increasing cybersecurity exposure and evolving compliance ris
 
 ---
 
-Additional projects will be added to this portfolio.
+---
+
+2. Global Healthcare Accessibility & Outcomes (2025)
+
+Description:  
+Analysis of global healthcare accessibility and population health outcomes, focusing on disparities between high- and low-income countries and their relationship to life expectancy, health expenditure, and system access.
+
+Key Skills Demonstrated:
+- Descriptive statistics
+- Z-score standardization
+- Correlation analysis (Pearson r)
+- Cross-country comparative analysis
+- Public health data interpretation
+
+📁 Folder: project-global-health-access
+
