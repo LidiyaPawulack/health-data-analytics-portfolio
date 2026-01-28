@@ -18,13 +18,8 @@ Findings highlight increasing cybersecurity exposure and evolving compliance ris
 - Healthcare compliance and risk interpretation
 
 📁 Folder: `project-ny-data-privacy-compliance`
-
 ---
-
----
-
-2. Global Healthcare Accessibility & Outcomes (2025)
-
+**2. Global Healthcare Accessibility & Outcomes (2025)**
 Description:  
 Analysis of global healthcare accessibility and population health outcomes, focusing on disparities between high- and low-income countries and their relationship to life expectancy, health expenditure, and system access.
 
@@ -36,4 +31,3 @@ Key Skills Demonstrated:
 - Public health data interpretation
 
 📁 Folder: project-global-health-access
-
